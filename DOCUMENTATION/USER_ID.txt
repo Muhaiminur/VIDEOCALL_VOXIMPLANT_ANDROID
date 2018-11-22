@@ -1,0 +1,2 @@
+one=abir1@itclan.muhaiminuritclanbd.voximplant.com
+two=abir2@itclan.muhaiminuritclanbd.voximplant.com
